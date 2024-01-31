@@ -13,3 +13,11 @@ Welcome to InteractiveEdu, an advanced e-learning platform designed to revolutio
 
 ![image (1)](https://github.com/likithkumar03/-learningsphere/assets/99890928/5a58af8f-223e-45a2-b5e1-f85928fa3f18)
 ![image (2)](https://github.com/likithkumar03/-learningsphere/assets/99890928/a743ff46-ca93-4a0a-8d82-d8dc99ce04af)
+
+
+Technology 
+
+React.js
+MUI
+SCSS
+CSS
