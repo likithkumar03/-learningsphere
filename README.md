@@ -18,6 +18,7 @@ Welcome to InteractiveEdu, an advanced e-learning platform designed to revolutio
 Technology 
 
 React.js
+
 MUI
+
 SCSS
-CSS
